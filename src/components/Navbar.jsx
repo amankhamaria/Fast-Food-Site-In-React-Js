@@ -1,6 +1,8 @@
 import React from "react";
 import { Link, NavLink } from "react-router";
 
+import logo from "../assets/logo.png"
+
 const Navbar = () => {
   const navlinks = [
     {
@@ -19,11 +21,11 @@ const Navbar = () => {
 
   return (
     <header>
-      <Link to="/" className="flex justify-center">
+      <Link to="/" className="flex justify-center py-2">
         <img
-          src="/Pizza_Drying_logo_transparent.png"
-          alt="Pizza Drying"
-          className="h-24"
+          src={logo}
+          alt="Seva Sadan Restaurant"
+          className="h-32 rounded-full"
         />
       </Link>
       <nav className="flex justify-center items-center gap-2 px-5">
