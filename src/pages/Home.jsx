@@ -67,23 +67,23 @@ const HomePage = () => {
     },
    
     {
-      img:"https://shreejirestaurant.in/assets/img/product/2.jpg",
+      img:"https://content.jdmagicbox.com/v2/comp/thane/f9/022pxx22.xx22.190523144104.j5f9/catalogue/1-side-fast-food-bhayandar-west-thane-fast-food-qihza2x9np.jpg",
       name:"Pizza"
     },
     {
-      img:"https://shreejirestaurant.in/assets/img/product/3.jpg",
+      img:"https://www.shoutlo.com/assets/images/merchant_images/merchant-111415-67610faf8da1d.jpg",
+      name:"Wow! Chicken "
+    },
+    {
+      img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5VAY49u4Y25fZnAk3ZF-heiCCYh1sKMt56Q&s",
       name:"Pizza"
     },
     {
-      img:"https://shreejirestaurant.in/assets/img/product/1.jpg",
+      img:"https://images.pexels.com/photos/2641886/pexels-photo-2641886.jpeg",
       name:"Pizza"
     },
     {
-      img:"https://shreejirestaurant.in/assets/img/product/2.jpg",
-      name:"Pizza"
-    },
-    {
-      img:"https://shreejirestaurant.in/assets/img/product/3.jpg",
+      img:"https://images.pexels.com/photos/2122294/pexels-photo-2122294.jpeg",
       name:"Pizza"
     },
   ])
